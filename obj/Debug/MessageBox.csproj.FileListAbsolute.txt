@@ -1,0 +1,5 @@
+D:\GITHUB\MessageBox\MessageBox\MessageBox\bin\Debug\MessageBox.exe.config
+D:\GITHUB\MessageBox\MessageBox\MessageBox\obj\Debug\MessageBox.csprojResolveAssemblyReference.cache
+D:\GITHUB\MessageBox\MessageBox\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+D:\GITHUB\MessageBox\MessageBox\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.Cache
+D:\GITHUB\MessageBox\MessageBox\MessageBox\obj\Debug\MessageBoxs.FMTest.resources

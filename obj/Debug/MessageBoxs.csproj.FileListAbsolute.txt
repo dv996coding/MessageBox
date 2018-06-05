@@ -1,0 +1,2 @@
+D:\GITHUB\MessageBox\MessageBox\MessageBox\bin\Debug\MessageBoxs.exe.config
+D:\GITHUB\MessageBox\MessageBox\MessageBox\bin\Debug\MessageBox.exe.config
